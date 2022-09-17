@@ -11,9 +11,10 @@ def get_text(url):
 
     return article.text
 
-
+x = 1
 url = 'https://randstuff.ru/joke/'
-while True:
+while x < 20:
+    x += 1
     text = get_text(url)
 # print(text)
     print(text[:100])  # Первые 100 символов из строки
