@@ -1,4 +1,4 @@
-# Automatic spam jokes in Russian.
+#Automatic spam jokes in Russian.
 ###Attention!
 Text sending starts IMMEDIATELY after the launch. 
 Suitable for most messengers (tested on Discord and Telegram)
