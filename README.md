@@ -1,5 +1,5 @@
-#Automatic spam jokes in Russian.
-###Attention!
+# Automatic spam jokes in Russian.
+### Attention!
 Text sending starts IMMEDIATELY after the launch. 
 Suitable for most messengers (tested on Discord and Telegram)
 ### Installation and running
